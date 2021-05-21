@@ -13,6 +13,9 @@ a,
 a:hover {
     text-decoration: none;
 }
+body{
+    min-height: 1000px;
+}
 /* ----------------------------- common css end ----------------------------- */
 
 #topbar {
